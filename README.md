@@ -1,105 +1,55 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:312e81&height=230&section=header&text=MATIN%20ABBASZADEH&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=BACKEND%20DEVELOPER%20IN%20PROGRESS&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
 
-<!--                         HERO BANNER                             -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=820&lines=Aspiring+Backend+Developer;JavaScript+%7C+Node.js+%7C+Express.js;Building+Real-World+Backend+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving;Future+TypeScript+%2B+NestJS+Developer" alt="Animated typing"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MATIN%20ABBASZADEH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20in%20Progress&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<a href="https://github.com/Matin-dev-2010">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:matin.business.2010@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/Matin_Abbaszadeh1">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-<br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Aspiring+Backend+Developer;JavaScript+%7C+Node.js+%7C+Express.js;Building+Real-World+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving;Future+TypeScript+%2B+NestJS+Developer" alt="Typing SVG"/>
-
-<br>
-
-<p>
-  <a href="https://github.com/Matin-dev-2010">
-    <img src="https://img.shields.io/badge/GitHub-Matin--dev--2010-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:matin.business.2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Matin_Abbaszadeh1">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Matin-dev-2010&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Matin-dev-2010&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-```javascript
-const matin = {
-    name: "Matin Abbaszadeh",
-    role: "Aspiring Backend Developer",
-
-    focus: [
-        "Backend Development",
-        "REST APIs",
-        "Databases",
-        "Real-World Projects"
-    ],
-
-    currentlyLearning: [
-        "JavaScript",
-        "Node.js",
-        "Express.js"
-    ],
-
-    nextStep: [
-        "PostgreSQL",
-        "TypeScript",
-        "NestJS"
-    ],
-
-    previousExperience: [
-        "C#",
-        "Windows Forms",
-        "SQLite",
-        "Entity Framework"
-    ],
-
-    philosophy: "Learn → Build → Practice → Improve"
-};
-```
-
----
-
-# ⚡ Current Focus
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%">
 
-### 🔥 Backend Development
+### Hi, I'm Matin
 
-* JavaScript
-* Node.js
-* Express.js
-* REST APIs
-* Authentication
-* Databases
-* Backend Architecture
+I'm a student and programmer focused on **Backend Development**.
+
+I enjoy learning how software works, building projects, solving problems, and improving through practice.
+
+**Current mission:** become a professional Backend Developer by building real-world systems instead of only following tutorials.
 
 </td>
+<td width="42%">
 
-<td width="50%">
-
-### 🎯 Long-Term Direction
-
-* TypeScript
-* NestJS
-* PostgreSQL
-* Prisma
-* Production APIs
-* Real-world systems
-* Professional Backend Development
+```js
+const matin = {
+  role: "Backend Developer",
+  focus: ["APIs", "Databases", "Systems"],
+  learning: ["JavaScript", "Node.js", "Express"],
+  next: ["PostgreSQL", "TypeScript", "NestJS"],
+  philosophy: "Learn → Build → Improve"
+};
+```
 
 </td>
 </tr>
@@ -107,164 +57,144 @@ const matin = {
 
 ---
 
-# 🧰 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,cs,html,css"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,git,github,vscode"/>
-</p>
-
-### 🚀 Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,nestjs,prisma"/>
-</p>
-
----
-
-# 📊 Skills Overview
-
-```text
-Backend Development     ███████░░░  Learning
-JavaScript              ███████░░░  Learning
-Node.js                 ██████░░░░  Learning
-Express.js              ██████░░░░  Learning
-SQL / Databases         █████░░░░░  Learning
-Git & GitHub             ██████░░░░  Learning
-C#                       ███████░░░  Experience
-Windows Forms            ███████░░░  Experience
-```
-
-> The levels above represent my current learning stage, not formal proficiency ratings.
-
----
-
-# 🚀 Featured Projects
-
-## 💾 CodeBank
-
-**CodeBank** is a C# Windows Forms application focused on working with structured data and databases.
-
-### 🛠️ Built With
-
-`C#` `Windows Forms` `.NET Framework` `SQLite` `Entity Framework`
-
-### 🔎 What I Practiced
-
-* CRUD operations
-* Database integration
-* Form management
-* Reusable methods
-* Data editing
-* Application structure
-* Working with SQLite
-
-<p>
-  <a href="https://github.com/Matin-dev-2010">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-# 🗺️ Developer Roadmap
-
-```text
-                         MATIN'S JOURNEY
-                               │
-                               ▼
-                    ┌───────────────────┐
-                    │     Programming   │
-                    └─────────┬─────────┘
-                              │
-                 ┌────────────┴────────────┐
-                 ▼                         ▼
-          ┌──────────────┐          ┌──────────────┐
-          │     C#       │          │ JavaScript   │
-          └──────┬───────┘          └──────┬───────┘
-                 │                         │
-                 ▼                         ▼
-          Windows Forms              Node.js
-                 │                         │
-                 ▼                         ▼
-              SQLite                  Express.js
-                 │                         │
-                 └──────────┬──────────────┘
-                            ▼
-                       REST APIs
-                            │
-                            ▼
-                        PostgreSQL
-                            │
-                            ▼
-                       TypeScript
-                            │
-                            ▼
-                         NestJS
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │ Professional       │
-                 │ Backend Developer   │
-                 └────────────────────┘
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Start serious programming
-* [x] Build projects with C#
-* [x] Work with databases
-* [ ] Master JavaScript
-* [ ] Master Node.js
-* [ ] Master Express.js
-* [ ] Build production-style REST APIs
-* [ ] Learn PostgreSQL deeply
-* [ ] Learn TypeScript
-* [ ] Learn NestJS
-* [ ] Build multiple real-world projects
-* [ ] Create a professional portfolio
-* [ ] Get my first programming income
-
----
-
-# 🧠 Development Philosophy
+## ⚡ Current Stack
 
 <div align="center">
 
-### `LEARN → BUILD → PRACTICE → IMPROVE → REPEAT`
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,nestjs,prisma,cs,sqlite&theme=dark" />
 
 </div>
 
-I don't want to learn programming only through tutorials.
+---
 
-My goal is to understand how things work, build projects, solve problems, make mistakes, and continuously improve.
+## 🧠 What I'm Building
+
+<div align="center">
+
+| 🧩 Area | 🎯 Focus |
+|---|---|
+| ⚙️ Backend | Node.js · Express.js · REST APIs |
+| 🗄️ Data | SQL · PostgreSQL · SQLite |
+| 🔐 APIs | Authentication · Authorization · Validation |
+| 🧱 Architecture | Clean structure · Reusable code · Scalability |
+| 🚀 Next | TypeScript · NestJS · Prisma |
+| 💼 Goal | Real-world projects → Portfolio → First income |
+
+</div>
 
 ---
 
-# 📈 GitHub Analytics
+## 🚀 Featured Project
+
+<div align="center">
+
+### 💾 CodeBank
+
+A C# Windows Forms application focused on structured data and database management.
+
+<img src="https://skillicons.dev/icons?i=cs,sqlite&theme=dark" />
+
+<br/><br/>
+
+**CRUD** · **SQLite** · **Entity Framework** · **Reusable Methods** · **Data Management**
+
+<br/>
+
+<a href="https://github.com/Matin-dev-2010">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🗺️ My Developer Journey
+
+<div align="center">
+
+```text
+                    ┌─────────────────────┐
+                    │     Programming     │
+                    └──────────┬──────────┘
+                               │
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+          ┌─────────────┐             ┌─────────────┐
+          │     C#      │             │ JavaScript  │
+          └──────┬──────┘             └──────┬──────┘
+                 │                           │
+                 ▼                           ▼
+          Windows Forms                  Node.js
+                 │                           │
+                 ▼                           ▼
+              SQLite                    Express.js
+                 │                           │
+                 └─────────────┬─────────────┘
+                               ▼
+                           REST APIs
+                               │
+                               ▼
+                          PostgreSQL
+                               │
+                               ▼
+                          TypeScript
+                               │
+                               ▼
+                            NestJS
+                               │
+                               ▼
+                    Professional Backend
+```
+
+</div>
+
+---
+
+## 📈 Learning Progress
+
+```text
+JavaScript        ███████░░░  Learning
+Node.js           ██████░░░░  Learning
+Express.js        ██████░░░░  Learning
+SQL / Databases   █████░░░░░  Learning
+Git & GitHub      ██████░░░░  Learning
+C#                ███████░░░  Experience
+```
+
+> These are personal learning-stage indicators, not formal skill ratings.
+
+---
+
+## 🎯 2026 Goals
+
+- [x] Start serious programming
+- [x] Build projects with C#
+- [x] Work with databases
+- [ ] Master JavaScript
+- [ ] Master Node.js
+- [ ] Master Express.js
+- [ ] Build production-style REST APIs
+- [ ] Learn PostgreSQL deeply
+- [ ] Learn TypeScript
+- [ ] Learn NestJS
+- [ ] Build multiple real-world projects
+- [ ] Build a professional portfolio
+- [ ] Get my first programming income
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Matin-dev-2010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matin-dev-2010&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<br><br>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Matin-dev-2010&theme=tokyonight&hide_border=true" width="70%"/>
 
@@ -272,64 +202,42 @@ My goal is to understand how things work, build projects, solve problems, make m
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Matin-dev-2010/Matin-dev-2010/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Matin-dev-2010/Matin-dev-2010/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-# 📚 Learning Path
-
-```text
-CURRENT
-  │
-  ├── JavaScript
-  ├── Node.js
-  └── Express.js
-          │
-          ▼
-NEXT
-  │
-  ├── REST API Design
-  ├── Authentication
-  ├── PostgreSQL
-  └── Backend Architecture
-          │
-          ▼
-ADVANCED
-  │
-  ├── TypeScript
-  ├── NestJS
-  ├── Prisma
-  ├── Testing
-  └── Production Systems
-```
-
----
-
-# 📫 Connect With Me
-
-<p>
-  <a href="mailto:matin.business.2010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-matin.business.2010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Matin_Abbaszadeh1">
-    <img src="https://img.shields.io/badge/Telegram-Matin__Abbaszadeh1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
----
+## 💡 Development Philosophy
 
 <div align="center">
 
-### 💻 Building the future, one project at a time.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=8B5CF6&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+PRACTICE+%E2%86%92+IMPROVE;Understand+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Fix+%E2%80%A2+Repeat" alt="Animated philosophy"/>
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="mailto:matin.business.2010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://t.me/Matin_Abbaszadeh1">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://github.com/Matin-dev-2010">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:050816&height=120&section=footer" width="100%"/>
 
 </div>
